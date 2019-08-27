@@ -50,7 +50,7 @@ h4.dubious {
   border: 1px solid #920505;
   box-shadow: -1px 1px #920505, -2px 2px #920505, -3px 3px #920505, -4px 4px #920505, -5px 5px #920505;
   background-color: #dd4444;
-  background: linear-gradient(to left, #dd4444, #920505);
+  
 }
 
 .column {
