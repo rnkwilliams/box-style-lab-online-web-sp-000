@@ -33,6 +33,9 @@ h4.amiable {
   background-color: #44cc66;
 }
 
+h4..indifferent {
+  
+}
 .indifferent {
   border: 1px solid #d0b219;
   box-shadow:  -1px 1px #d0b219, -2px 2px #d0b219, -3px 3px #d0b219, -4px 4px #d0b219, -5px 5px #d0b219;
